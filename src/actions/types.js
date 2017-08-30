@@ -1,0 +1,1 @@
+export const LOCATION_FETCH = 'location_fetch';
